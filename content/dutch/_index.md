@@ -3,7 +3,7 @@
 # Banner
 banner:
   title: "Welkom bij Koen Schoute Digital Solutions"
-  content: "Custom websites, apps en andere digitale oplossingen"
+  content: "Websites en webtools voor zzp'ers en kleine bedrijven"
   button:
     enable: true
     label: "Meer informatie"
@@ -12,11 +12,11 @@ banner:
 # Features
 features:
   - title: "Diensten"
-    image: "/images/service-1.png"
-    content: "Ik kan websites, apps en andere digitale oplossingen ontwikkelen die specifiek zijn voor uw bedrijf. Ik maak gebruik van de nieuwste technologieën en ontwikkelingstools om uw projecten te realiseren. Ik ben ervan overtuigd dat uw bedrijf de beste digitale ervaring kan bieden aan uw klanten."
+    image: "/images/koen-hackathon.jpeg"
+    content: "Ik kan websites, apps en andere digitale oplossingen ontwikkelen die specifiek zijn voor uw bedrijf. Ik maak gebruik van de nieuwste technologieën en ontwikkelingstools om uw projecten te realiseren."
     bulletpoints:
     - "Websites, statisch of met contentbeheer"
-    - "Webshops (TODO: bepalen of ik dit waar kan maken)"
+    # - "Webshops, met INSERT FRAMEWORK(TODO: uitzoeken welk framework ik hiervoor wil inzetten)"
     - "progressive-web apps. Deze werken op alle platformen, zoals mobiel, desktop, het web en tablet."
     button:
       enable: true

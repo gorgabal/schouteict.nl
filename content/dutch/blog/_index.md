@@ -1,5 +1,6 @@
 ---
-title: "Blog Posts"
+title: "Blog & portfolio"
 meta_title: ""
-description: "this is meta description"
+description: "this page contains both posts and portfolio posts. "
+aliases: ["/portfolio"]
 ---

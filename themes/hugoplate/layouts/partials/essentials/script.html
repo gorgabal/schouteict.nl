@@ -32,7 +32,24 @@
 <script
   crossorigin="anonymous"
   integrity="{{ $scripts.Data.Integrity }}"
-  src="{{ $scripts.RelPermalink }}"></script>
+  src="{{ $scripts.RelPermalink }}">
+</script>
+
+<script>
+const form = document.getElementById('form');
+
+form.addEventListener('submit', function(e) {
+
+    const hCaptcha = form.querySelector('textarea[name=h-captcha-response]').value;
+
+    if (!hCaptcha) {
+        e.preventDefault();
+        alert("Please fill out captcha field")
+        return
+    }
+});
+</script>
+
 
 {{/* scripts lazy */}}
 <script
