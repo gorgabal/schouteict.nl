@@ -3,7 +3,7 @@ title: "Diensten"
 # meta title
 meta_title: ""
 # meta description
-description: "Diensten"
+description: "Ontdek mijn diensten: discovery trajecten, op maat gemaakte webtools en applicaties, en professionele websites voor ondernemers en kleine bedrijven."
 # save as draft
 draft: false
 aliases: "Diensten"
@@ -11,27 +11,43 @@ aliases: "Diensten"
 
 ## Discovery traject
 
-Middels een discovery traject breng ik de unieke behoeften en wensen van u of uw bedrijf in kaart. En zal ik een passend voorstel voor uw bedrijf opleveren. U kunt dit voorstel dan vervolgens door mij of een andere leverancier laten uitvoeren. Dit zal in de vorm van 4 gesprekken over een periode van 2 maanden zijn.
+Voordat we beginnen met bouwen, is het essentieel om precies te begrijpen wat u nodig heeft. In een discovery traject analyseren we samen uw specifieke uitdagingen en doelen. Het resultaat? Een helder stappenplan dat perfect aansluit bij uw bedrijf.
+
+U ontvangt een concreet voorstel dat u vrijblijvend kunt laten uitvoeren - door mij of door een andere leverancier van uw keuze. Het traject bestaat uit 4 strategische gesprekken verspreid over 2 maanden, zodat we de tijd hebben om tot de kern van uw behoeften door te dringen.
 
 ## Webtools en applicaties
 
-Naast gewone websites kan ik ook interactieve webtools en applicaties voor u ontwikkelen. De technische term hiervoor is 'Progressive Web Apps' Deze werken net zo goed als gewone smartphone apps, inclusief offline mogelijkheden, maar dan via uw webbrowser. Denk bijvoorbeeld aan een reserveringssysteem, een klantenportaal, of een tool waarmee uw medewerkers hun taken kunnen beheren.
+Heeft u meer nodig dan een standaard website? Dan ontwikkel ik op maat gemaakte webtools en applicaties die uw bedrijfsprocessen écht verbeteren. Denk aan een reserveringssysteem dat uw planning automatiseert, een klantenportaal dat uw service naar een hoger niveau tilt, of een tool waarmee uw team efficiënter samenwerkt.
 
-Het voordeel van deze aanpak is dat uw tool op alle apparaten werkt - computers, tablets en smartphones - zonder dat gebruikers iets hoeven te installeren. Ze openen gewoon hun browser en kunnen meteen aan de slag.
+Deze moderne webtoepassingen werken net zo intuïtief als smartphone apps en zijn toegankelijk via uw browser. Uw team en klanten kunnen meteen aan de slag, op élk apparaat. Desgewenst kunnen deze applicaties ook geïnstalleerd worden voor nog gemakkelijkere toegang.
 
-Voor deze dienst werk ik samen met u om precies te begrijpen wat de tool moet kunnen doen en hoe gebruikers ermee zullen werken.
+Het mooiste? Uw tool werkt perfect op computers, tablets én smartphones. Gebruikers hebben altijd toegang tot de nieuwste versie zonder handmatige updates. Bovendien kunnen veel van deze applicaties ook offline functioneren - zo kunt u doorwerken zonder internetverbinding, waarna uw gegevens automatisch synchroniseren zodra u weer online bent.
+
+Samen zorgen we ervoor dat de tool precies doet wat u nodig heeft en aansluit bij hoe u of uw gebruikers werken.
 
 ## Websites
 
-Ik kan zowel statische websites als websites met contentbeheer voor u maken.
+Ik ontwikkel professionele websites die uw bedrijf online laten groeien en meer klanten aantrekken.
 
-Voor statische websites denk aan eenmalige websites van lokale ondernemers die zich willen adverteren naar de wereld.
+**Statische websites** - Perfect voor ondernemers die snel online willen met een sterke eerste indruk. Uw website wordt razendsnel geladen, scoort hoog in Google en werkt feilloos op alle apparaten. Ideaal als u een betrouwbare online aanwezigheid wilt zonder gedoe.
 
-Daarnaast kan ik websites maken die vooral gericht zijn op contentbeheer. U kunt dan inloggen en zelf de content aanpassen.
-<!--
-## neurodiversiteits praatje
+**Websites met contentbeheer** - Voor bedrijven die regelmatig nieuws, blogs of producten willen toevoegen. U krijgt een gebruiksvriendelijk beheerpaneel waarmee u zelf eenvoudig teksten en foto's kunt aanpassen - geen technische kennis vereist. Zo houdt u uw website altijd actueel en relevant voor uw bezoekers.
 
-Ik ben gepassioneerd over neurodiversiteit. Als u meer informatie over dit onderwerp wilt kan ik hier een presentatie over geven.-->
+Beide opties worden geoptimaliseerd voor zoekmachines, zodat potentiële klanten u gemakkelijk kunnen vinden.
+
+<!--## Neurodiversiteit presentaties
+
+Maak uw organisatie inclusiever en benut het volle potentieel van neurodivergente talenten. Als ervaren spreker over neurodiversiteit help ik teams en organisaties begrijpen hoe zij een werkomgeving kunnen creëren waar iedereen floreert.
+
+**Waarom een neurodiversiteitspresentatie?**
+- Verhoog de productiviteit door verschillende denkstijlen te omarmen
+- Creëer een inclusievere cultuur die toptalent aantrekt en behoudt
+- Leer praktische strategieën om neurodivergente collega's optimaal te ondersteunen
+- Ontdek de unieke sterke punten die neurodivergente mensen meebrengen
+
+Mijn presentaties zijn interactief, informatief en direct toepasbaar in uw dagelijkse praktijk. Of het nu gaat om een teambijeenkomst, workshop of bedrijfsbrede training - ik pas de inhoud aan op uw specifieke behoeften en doelgroep.
+
+Investeer in diversiteit en innovatie. Boek een presentatie die écht verschil maakt.-->
 
 <!--# Tarieven
 
